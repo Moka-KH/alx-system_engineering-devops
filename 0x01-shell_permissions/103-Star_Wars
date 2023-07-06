@@ -1,2 +1,2 @@
 #!/bin/bash
-display StarWArs_IV
+telnet StarWArs_IV.nl
